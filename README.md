@@ -14,8 +14,7 @@ customer destinations. This system allowsshops to create delivery requests which
 
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
-
+https://github.com/mkljngd/CS665-Assignment-2
 # Implementation Description 
 
 
